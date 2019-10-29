@@ -8,7 +8,7 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "",
+    "more": "Nodes are colored based on the number of media they are following: 1-green (69.57%), 2-purple (23.9%), 3-yellow (4.71%), 4-orange (1.35%), 5- light red (0.43%) ",
     "intro": "",
     "title": "Network of followers of selected Serbian media"
   },
@@ -41,9 +41,9 @@
     },
     "graphProperties": {
       "maxEdgeSize": 0.3,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 0.005,
-      "maxNodeSize": 20
+      "minEdgeSize": 0.01,
+      "minNodeSize": 0.000005,
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,
